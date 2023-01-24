@@ -1,0 +1,30 @@
+  command -- action
+1. pwd  -- present working directory
+2. mkdir -- create a new directory
+3. ls -- list of contents
+4. cd -- change the current directory
+5. touch -- create files
+6. cat -- create a file and display the file contents
+7. rm -- remove a file
+8. rmdir -- remove a directory
+9. mv -- move a file or directory
+10. cp -- copy a file or directory
+11. rename -- rename large group of files
+12. head -- display top 10 file content
+13. tail -- display last 10 files.
+14. more -- display the content of large files
+15. tac -- display the content in reverse order
+16. su -- change access to other user
+17. useradd -- add or remove a user
+18. passwd -- create or change a password
+19. groupadd -- used to create a group
+20. grep -- used to searching the content of the file
+21. clear -- used to clear screen
+22. ls -l -- see the list of contents with file permissions
+23 df -- display the disk space
+24. ping -- check connectivity between two nodes
+25. ip -- assign a ip address
+26. ssh -- create a remote connection using ssh protocol
+27. host -- display ip address and domain name
+
+  
